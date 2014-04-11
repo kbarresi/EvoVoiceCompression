@@ -68,4 +68,5 @@ void WavData::load(std::string filename) {
 	else {
 		printf("Error: unable to open file: %s\n", filename.c_str());
 	}
+	fclose(fp);
 }
