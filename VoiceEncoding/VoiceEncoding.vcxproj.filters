@@ -36,12 +36,30 @@
     <ClCompile Include="WavData.cpp">
       <Filter>Source Files\util</Filter>
     </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>Source Files\util</Filter>
+    </ClCompile>
+    <ClCompile Include="Function.cpp">
+      <Filter>Source Files\util</Filter>
+    </ClCompile>
+    <ClCompile Include="Terminal.cpp">
+      <Filter>Source Files\util</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Population.h">
       <Filter>Header Files\ea</Filter>
     </ClInclude>
     <ClInclude Include="WavData.h">
+      <Filter>Header Files\util</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>Header Files\util</Filter>
+    </ClInclude>
+    <ClInclude Include="Function.h">
+      <Filter>Header Files\util</Filter>
+    </ClInclude>
+    <ClInclude Include="Terminal.h">
       <Filter>Header Files\util</Filter>
     </ClInclude>
   </ItemGroup>

@@ -76,12 +76,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Function.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Node.cpp" />
     <ClCompile Include="Population.cpp" />
+    <ClCompile Include="Terminal.cpp" />
     <ClCompile Include="WavData.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Function.h" />
+    <ClInclude Include="Node.h" />
     <ClInclude Include="Population.h" />
+    <ClInclude Include="Terminal.h" />
     <ClInclude Include="WavData.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

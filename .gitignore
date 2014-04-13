@@ -1,3 +1,7 @@
 Debug/*
 VoiceEncoding/Debug/*
 VoiceEncoding/training_data/*
+*.opensdf
+*.sdf
+*.suo
+*.vcxproj.user
